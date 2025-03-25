@@ -61,7 +61,18 @@ input#search {
 .header{
 
     display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    color: black;
+    align-items: center;
+    padding: 20px 40px;
 
+
+}
+
+nav,ul,li{
+display: inline;
+align-items: left;
 }
 
 
